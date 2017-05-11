@@ -16,6 +16,11 @@ body {
     background-position: center; 
     background-size: 1700px 4000px;
 }
+h1 {
+    text-shadow: 2px 2px #FF66FF;
+}
+
+
 
 
 
