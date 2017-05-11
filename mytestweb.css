@@ -27,6 +27,10 @@ h1 {
 p {
     font-family: "Oswald", Georgia, Serif;
 }    
+p.ex {
+    height: 100px;
+    width: 100px;
+}
 
 
 
