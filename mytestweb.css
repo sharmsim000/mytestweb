@@ -32,6 +32,9 @@ p {
 }
 h1 {
     text-transform: uppercase;
+}  
+h2 {
+    text-transform: capitalize;
 }    
 
 
